@@ -1,1 +1,1 @@
-# Prediction-using-Unsupervised-ML
+# Prediction-using-supervised-ML
